@@ -1,0 +1,22 @@
+/* ==============
+   Style de base
+   ============== */
+
+html {
+    color: #222;
+    background-color: #eee;
+}
+
+/* =======================
+   EXEMPLE de Media Query
+   ======================= */
+
+@media only screen and (min-width: 800px) {
+
+    html {
+      background-color: #eae;
+    }
+
+}
+
+
